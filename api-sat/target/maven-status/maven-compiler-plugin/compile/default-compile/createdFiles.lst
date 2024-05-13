@@ -1,0 +1,11 @@
+org\tempuri\Consulta.class
+org\tempuri\package-info.class
+org\tempuri\ObjectFactory.class
+org\datacontract\schemas\_2004\_07\sat_cfdi_negocio_consultacfdi\Acuse.class
+org\tempuri\ConsultaCFDIService.class
+org\datacontract\schemas\_2004\_07\sat_cfdi_negocio_consultacfdi\ObjectFactory.class
+org\tempuri\IConsultaCFDIService.class
+org\datacontract\schemas\_2004\_07\sat_cfdi_negocio_consultacfdi\package-info.class
+com\microsoft\schemas\_2003\_10\serialization\ObjectFactory.class
+com\ghimprove\apisat\ApiSatApplication.class
+org\tempuri\ConsultaResponse.class
